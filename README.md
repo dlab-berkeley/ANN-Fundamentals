@@ -10,7 +10,7 @@ This is the repository for D-Lab’s Artificial Neural Network (ANN) Fundamental
 [Machine learning 6 - Artificial Neural Networks - part 4- sklearn MLP classification example](http://qingkaikong.blogspot.com/2016/11/machine-learning-6-artificial-neural.html)   
 [Machine learning 9 - More on Artificial Neural Network](http://qingkaikong.blogspot.com/2017/02/machine-learning-9-more-on-artificial.html)
 
-Content outline: 
+**Content outline:**
 - Gentle introduction 
   - What is machine learning?
   - History of artificial neural networks (ANN)
