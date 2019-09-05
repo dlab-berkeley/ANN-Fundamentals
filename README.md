@@ -1,6 +1,6 @@
 # Artificial Neural Network (ANN) Fundamentals
 
-This is the repository for D-Lab’s Artificial Neural Network (ANN) Fundamentals workshop. These materials were authored and contributed by [Qingkai Kong](http://seismo.berkeley.edu/qingkaikong/) based on several of his excellent blog posts: 
+This is the repository for D-Lab’s Artificial Neural Network (ANN) Fundamentals in Python workshop. These materials were authored and contributed by [Qingkai Kong](http://seismo.berkeley.edu/qingkaikong/) based on several of his excellent blog posts: 
 
 [Machine learning 1 - What is machine learning and real world example](http://qingkaikong.blogspot.com/2016/10/machine-learning-1-what-is-machine.html)  
 [Machine learning 2 - Types of Machine Learning](http://qingkaikong.blogspot.com/2016/10/machine-learning-2-types-of-machine.html)  
