@@ -27,7 +27,6 @@ This is the repository for D-Lab’s Artificial Neural Network (ANN) Fundamental
 **Installation Requirements:**
 - Python 3
 - Numpy
-- Pandas
 - Matplotlib
 - Scikit-Learn
 - Tensorflow
