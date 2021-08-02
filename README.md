@@ -25,9 +25,10 @@ This is the repository for D-Lab’s Artificial Neural Network (ANN) Fundamental
   - scikit learn
 
 **Installation Requirements:**
-- Python 3
-- Numpy
-- Matplotlib
-- Scikit-Learn
-- Tensorflow
+- python 3
+- numpy
+- matplotlib
+- sklearn
+- tensorflow
+- jupyterlab
 
