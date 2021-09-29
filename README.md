@@ -1,6 +1,6 @@
 # Artificial Neural Network (ANN) Fundamentals
 
-This is the repository for D-Lab’s Artificial Neural Network (ANN) Fundamentals in Python workshop. These materials were authored and contributed by [Qingkai Kong](http://seismo.berkeley.edu/qingkaikong/) based on several of his excellent blog posts: 
+This is the repository for D-Lab’s Artificial Neural Network (ANN) Fundamentals in Python workshop. These materials were authored and contributed by [Qingkai Kong](http://seismo.berkeley.edu/qingkaikong/) based on several of his excellent blog posts and subsequently editted by [Sean Perez](https://seanmperez.github.io/index.htm): 
 
 [Machine learning 1 - What is machine learning and real world example](http://qingkaikong.blogspot.com/2016/10/machine-learning-1-what-is-machine.html)  
 [Machine learning 2 - Types of Machine Learning](http://qingkaikong.blogspot.com/2016/10/machine-learning-2-types-of-machine.html)  
@@ -23,3 +23,12 @@ This is the repository for D-Lab’s Artificial Neural Network (ANN) Fundamental
   - Calculating error example
 - Real world example
   - scikit learn
+
+**Installation Requirements:**
+- python 3
+- numpy
+- matplotlib
+- sklearn
+- tensorflow
+- jupyterlab
+
